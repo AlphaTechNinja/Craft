@@ -25,7 +25,7 @@ getFile("UnuhV8g1",".Craft/craft")
 getFile("4KF7THzR","Craft")
 print("do you want API installer")
 if read() == "y" then
-getFile("","apiGet")
+getFile("LCjg5pWR","apiGet")
 end
 print(linePrint("finished","run Craft to load API"))
 end
