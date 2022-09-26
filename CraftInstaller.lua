@@ -1,7 +1,7 @@
 print("this is a installer for Craft")
 print("install y/n")
 local function getFile(code,path)
-shell.run("pastebin",{code,path})
+shell.run("pastebin","get",code,path)
 end
 local function linePrint(...)
 local data = table.pack(...)
